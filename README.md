@@ -1,14 +1,14 @@
-# Hi, I'm Kanishk 👋
+# Hi, I'm Kanishk
 
 Backend and distributed systems engineer. I recently finished my **M.S. in Computer Science at NYU** (May 2026). Before that I spent two years as a **Software Engineer at ZS Associates**, building data backends for pharma clients like J&J, Pfizer, Merck and Lilly.
 
 I like systems that are fast, measurable, and survive failure.
 
-📍 New York, NY · 🌐 [kanishkaggarwal.com](https://kanishkaggarwal.com) · ✉️ ka3506@nyu.edu
+New York, NY · [kanishkaggarwal.com](https://kanishkaggarwal.com) · ka3506@nyu.edu
 
 ---
 
-## 🔨 Featured projects
+## Featured projects
 
 ### [DistKV](#) — distributed key-value store · `C++20` `gRPC` `AWS` `Terraform`
 A Redis-protocol key-value store built from scratch
@@ -26,7 +26,7 @@ Continuously ingests from NewsAPI, RSS and the open web; ranks sources on simila
 
 ---
 
-## 🧰 Tech stack
+## Tech stack
 
 **Languages:** Python · SQL · C++ · TypeScript · JavaScript
 **Backend:** FastAPI · Flask · gRPC · REST · Celery · asyncio · OAuth2/JWT · Pydantic
