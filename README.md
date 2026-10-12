@@ -4,7 +4,7 @@ Backend and distributed systems engineer. I recently finished my **M.S. in Compu
 
 I like systems that are fast, measurable, and survive failure. Most of my projects end with a load test, a failover drill, or a Prometheus dashboard.
 
-📍 New York, NY · 🌐 [kanishkaggarwal.com](https://kanishkaggarwal.com) · 💼 [LinkedIn](https://linkedin.com/in/kanishkaggarwal1) · ✉️ ka3506@nyu.edu
+📍 New York, NY · 🌐 [kanishkaggarwal.com](https://kanishkaggarwal.com) · ✉️ ka3506@nyu.edu
 
 ---
 
@@ -45,7 +45,3 @@ Playlist recommendations from 19,000+ songs of Spotify listening history.
 **Frontend:** React · Next.js
 
 ---
-
-## 🎯 Right now
-
-Looking for **backend, infrastructure, or distributed systems** roles. Happy to talk about consistent hashing, cache design, or why your ingestion job takes three days.
