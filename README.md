@@ -2,7 +2,7 @@
 
 Backend and distributed systems engineer. I recently finished my **M.S. in Computer Science at NYU** (May 2026). Before that I spent two years as a **Software Engineer at ZS Associates**, building data backends for pharma clients like J&J, Pfizer, Merck and Lilly.
 
-I like systems that are fast, measurable, and survive failure. Most of my projects end with a load test, a failover drill, or a Prometheus dashboard.
+I like systems that are fast, measurable, and survive failure.
 
 📍 New York, NY · 🌐 [kanishkaggarwal.com](https://kanishkaggarwal.com) · ✉️ ka3506@nyu.edu
 
