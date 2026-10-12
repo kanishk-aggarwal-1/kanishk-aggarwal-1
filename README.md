@@ -11,27 +11,18 @@ I like systems that are fast, measurable, and survive failure.
 ## 🔨 Featured projects
 
 ### [DistKV](#) — distributed key-value store · `C++20` `gRPC` `AWS` `Terraform`
-A Redis-protocol key-value store built from scratch, compatible with `redis-cli` and `memtier_benchmark`.
-- Sharded across 6 nodes with consistent hashing and live key migration
-- Primary-backup replication over gRPC with heartbeat-based failover
-- **150,000 ops/sec at 1.8 ms p99** across 3 AWS availability zones
-- Killed primaries under load: **zero acknowledged writes lost**, 3 s failover
+A Redis-protocol key-value store built from scratch
+
 
 ### [ShiftStack](#) — automated Flask → FastAPI migration · `Python AST` `Celery` `Redis` `FastAPI` `Ollama`
 Static analysis that plans and ships a framework migration for you.
-- Parses Flask codebases into ASTs, builds a cross-file dependency graph, and risk-scores every route
-- Generates migration patches with LLM-written explanations and opens the PRs on GitHub
-- Async Celery jobs with progress, retries and cancellation; GitHub OAuth with AES-encrypted tokens
+
 
 ### [Music Intelligence](#) — recommendation service · `PostgreSQL` `scikit-learn` `Docker` `Prometheus`
 Playlist recommendations from 19,000+ songs of Spotify listening history.
-- Sparse-matrix rewrite of the TF-IDF + KNN pipeline: **~60% less memory, 10x faster** playlist generation
-- Served **28,000+ requests** in production on Render with health probes and Prometheus metrics
-- 138-test GitHub Actions pipeline on every deploy; schema evolved through 7 Alembic migrations
 
 ### [AI Search Engine](#) — RAG answer engine · `Redis` `SQLite` `Gemini`
-- Continuously ingests from NewsAPI, RSS and the open web; ranks sources on similarity, recency, credibility and diversity
-- 3-tier cache (Redis → SQLite → live fetch) cut repeat-query latency from **~1 s to under 10 ms**
+Continuously ingests from NewsAPI, RSS and the open web; ranks sources on similarity, recency, credibility and diversity
 
 ---
 
